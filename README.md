@@ -9,6 +9,8 @@ This work is licensed under a
 
 [![CC BY-SA 4.0][cc-by-sa-image]][cc-by-sa]
 
-# THIS REPO IS A TEMPORARY CLONE OF OWASP'S ASVS 5.0
+# THIS REPO IS A TEMPORARY CLONE OF OWASP'S ASVS 5.0 and WSTG
 
 - https://github.com/OWASP/ASVS/tree/master/4.0/en
+- https://github.com/OWASP/www-project-web-security-testing-guide/tree/master/latest/4-Web_Application_Security_Testing
+
